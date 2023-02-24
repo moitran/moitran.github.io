@@ -1,5 +1,5 @@
 # Tran Van Moi
-![Profile picture](https://moitran.github.io/avatar.jpeg | width = 100)
+![Profile picture](https://moitran.github.io/avatar.jpeg)
 
 ## Contact Information
 
