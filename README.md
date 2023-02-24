@@ -1,15 +1,18 @@
 # Tran Van Moi
-![Profile picture](https://moitran.github.io/avatar.jpeg)
+![Profile picture](https://moitran.github.io/avatar.jpeg | width = 100)
 
 ## Contact Information
 
 - Email: [moitran92@gmail.com](mailto:moitran92@gmail.com)
-- Phone: +84912179790
 - Location: Ho Chi Minh, Vietnam
 
 ## Summary
 
-I am a web developer with over 8 years of experience in Backend and Infrastructure. I am seeking a challenging position in an organization where I can utilize my talents and skills to contribute to the growth and expansion of the company and myself. I am enthusiastic, open-minded, and sociable, and have the ability to work both independently and in a team. My short-term goal is to learn Python and work as both a Python and PHP developer, while my long-term goal is to become a Technical Architect.
+I am a web developer with over 8 years of experience in Backend and Infrastructure. I am seeking a challenging position in an organization where I can utilize my talents and skills to contribute to the growth and expansion of the company and myself.
+
+I am enthusiastic, open-minded, and sociable, and have the ability to work both independently and in a team.
+
+My short-term goal is to learn Python and work as both a Python and PHP developer, while my long-term goal is to become a Technical Architect.
 
 ## Certifications
 
@@ -101,6 +104,5 @@ I am a web developer with over 8 years of experience in Backend and Infrastructu
 ## Interests
 
 - Badminton is my favorite sport
-- Drinking coffee with colleagues after
-lunch
+- Drinking coffee with colleagues after lunch
 - Learn technical courses on Udemy
