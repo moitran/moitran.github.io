@@ -60,7 +60,7 @@ My short-term goal is to learn Python and work as both a Python and PHP develope
   - Authentication & Authorization with JWT
   - AWS services: Aurora (Mysql serverless), ECS, EC2, S3, SQS, SNS, Athena & AWS Glue
   - Docker & AWS Codepipeline for CI/CD
-  - Presto | Distributed SQL Query Engine for Big Data
+  - Presto - Distributed SQL Query Engine for Big Data
   - Symfony 4, Laravel 6 (For admin site)
   - Python
   - Redis Cache
