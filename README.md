@@ -93,12 +93,12 @@ I am a web developer with over 8 years of experience in Backend and Infrastructu
 - Technologies used:
   - AWS services: CloudSearch, SQS
 
-## EDUCATION
+## Education
 
 - Can Tho University (Sep 2010 - Sep 2014)
 	- Major: Software Engineering
 
-## INTERESTS
+## Interests
 
 - Badminton is my favorite sport
 - Drinking coffee with colleagues after
